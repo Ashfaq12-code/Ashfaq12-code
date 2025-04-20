@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace WindowsFormsApplication2
+namespace WindowsFormsApp2
 {
     public partial class Form1 : Form
     {
@@ -17,22 +17,31 @@ namespace WindowsFormsApplication2
             InitializeComponent();
         }
 
-        private void DDD_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void label1_Click(object sender, EventArgs e)
         {
             Application.Exit();
         }
 
-        private void login_showPassword_CheckedChanged(object sender, EventArgs e)
+        private void Form1_Load(object sender, EventArgs e)
         {
 
         }
 
-        private void login_password_TextChanged(object sender, EventArgs e)
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            panel2.Width += 6;
+
+            if (panel2.Width >= 546)
+            {
+                timer1.Stop();
+
+                 Loginform lForm = new Loginform();
+                lForm.Show();
+                this.Hide();
+            }
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
         {
 
         }

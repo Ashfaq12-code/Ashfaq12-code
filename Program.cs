@@ -4,9 +4,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace WindowsFormsApplication2
+namespace WindowsFormsApp2
 {
-    static class Program
+    internal static class Program
     {
         /// <summary>
         /// The main entry point for the application.
