@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/GitHub-Ashfaq12--code-00ff88?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" alt="GitHub"/>
 </a>
 <a href="https://techalh.com">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00ff88?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010" alt="Portfolio"/>
+  <img src="https://codewithash32.neocities.org/" alt="Portfolio"/>
 </a>
 <a href="mailto:codewithash6@gmail.com">
   <img src="https://img.shields.io/badge/Contact-Email-00ff88?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" alt="Email"/>
