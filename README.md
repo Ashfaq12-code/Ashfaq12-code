@@ -1,135 +1,228 @@
-# 👋 Hey, I'm Ashfaq Ahamed
+<!--
+  Ashfaq Ahamed | GitHub Profile README
+  Theme: Black + Emerald Green
+-->
 
-```html
-<h3 align="center">
-  💻 Full-Stack Developer | Web & Mobile Apps Specialist
-</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+💻;Web+%26+Mobile+Apps+Specialist+📱;Building+Smart+Business+Software+🚀;AI+%26+Automation+Enthusiast+🤖;Debugging+My+Way+to+Greatness+🔥" alt="Typing SVG" />
-</p>
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:064e3b,100:00ff88&height=200&section=header&text=ASHFAQ%20AHAMED&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=FULL-STACK%20DEVELOPER&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="Ashfaq Ahamed profile banner"/>
 
-🚀 **Debugging My Way to Greatness**
+<a href="https://github.com/Ashfaq12-code">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=900&color=00FF88&center=true&vCenter=true&width=750&height=55&lines=Full-Stack+Developer+%F0%9F%92%BB;Web+%26+Mobile+Apps+Specialist+%F0%9F%93%B1;Building+Smart+Business+Software+%F0%9F%9A%80;AI+%26+Automation+Enthusiast+%F0%9F%A4%96;Debugging+My+Way+to+Greatness+%F0%9F%94%A5" alt="Animated developer introduction"/>
+</a>
 
-I'm a self-taught Full-Stack Developer from Sri Lanka who enjoys turning ideas into practical, reliable software. I build modern web applications, REST APIs, database-driven systems, and business solutions with a focus on clean code, responsive interfaces, and real-world functionality.
+<br/>
 
-- 🔭 **Currently building:** JARVIS AI — an AI-powered personal assistant.
-- 💼 **Working on:** Full-stack applications, ERP systems, inventory management, and e-commerce platforms.
-- 🌱 **Exploring:** AI integrations, automation, and Java with Spring Boot.
-- 🤝 **Open to:** Software development opportunities, remote work, and open-source collaboration.
-- 💬 **Ask me about:** React, Next.js, Node.js, Python, REST APIs, and databases.
-- 🌍 **Portfolio:** [techalh.com](https://techalh.com)
-- ⚡ **My motto:** Debugging My Way to Greatness 🚀
+<a href="https://github.com/Ashfaq12-code">
+  <img src="https://img.shields.io/badge/GitHub-Ashfaq12--code-00ff88?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" alt="GitHub"/>
+</a>
+<a href="https://techalh.com">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00ff88?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010" alt="Portfolio"/>
+</a>
+<a href="mailto:codewithash6@gmail.com">
+  <img src="https://img.shields.io/badge/Contact-Email-00ff88?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" alt="Email"/>
+</a>
+
+<br/><br/>
+
+**Building ideas into real-world digital experiences.**
+
+*Clean code. Smart solutions. Continuous growth.*
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## `01` — About Me
+
+Hey! I'm **Ashfaq Ahamed**, a self-taught Full-Stack Developer from Sri Lanka 🇱🇰.
+
+I enjoy building modern web applications, mobile-friendly experiences, business management systems, APIs, and AI-powered tools. My focus is on creating useful software with clean interfaces, reliable functionality, and maintainable code.
+
+- 🔭 **Currently building:** JARVIS AI — a personal AI assistant.
+- 💻 **Specializing in:** Full-stack web development and business applications.
+- 🧠 **Exploring:** AI integrations, automation, and smarter software workflows.
+- 🏢 **Business systems:** ERP, POS, inventory, and e-commerce applications.
+- 🤝 **Open to:** Development opportunities and collaborative projects.
+- 🌱 **Always learning:** New technologies and better engineering practices.
+- ⚡ **Personal motto:** Debugging My Way to Greatness.
+
+---
+
+## `02` — Technology Arsenal
+
+<div align="center">
 
 ### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,vite&theme=dark" alt="Frontend technologies"/>
 
 ### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,php,java&theme=dark" alt="Backend technologies"/>
 
-### Tools & Deployment
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+### Databases & Services
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase&theme=dark" alt="Database technologies"/>
+
+### Development Tools & Deployment
+
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,vercel,netlify&theme=dark" alt="Development tools"/>
+
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## `03` — Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🤖 JARVIS AI
-An AI-powered personal assistant project featuring a Python backend and a Next.js dashboard, designed to support assistant tasks, automation, and PC interactions.
 
-**Tech:** Python, FastAPI, Next.js, TypeScript
+An AI-powered personal assistant with a Python backend and Next.js dashboard, designed around assistant tasks, automation, and computer interaction.
 
-🔗 [View Repository](https://github.com/Ashfaq12-code/JARVIS-AI)
+**Stack:** Python · FastAPI · Next.js · TypeScript
 
-### ⚽ Premio — E-Commerce & ERP
-A football jersey e-commerce and business management project combining online shopping functionality with product, inventory, order, and user management.
+<a href="https://github.com/Ashfaq12-code/JARVIS-AI">View Repository →</a>
 
-**Tech:** Next.js, Node.js, Firebase, REST APIs, Tailwind CSS
+</td>
+<td width="50%" valign="top">
+
+### ⚽ Premio E-Commerce & ERP
+
+A football jersey shopping and management platform featuring e-commerce functionality and business tools for products, inventory, orders, and users.
+
+**Stack:** Next.js · Node.js · Firebase · REST APIs
+
+<a href="https://premio-two.vercel.app/">View Project →</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🎮 SonicBots
-An interactive project exploring AI-inspired features, real-time communication, and multiplayer experiences.
+
+An interactive development project exploring real-time communication, multiplayer experiences, and AI-inspired features.
+
+**Focus:** Interactive applications · Real-time features
+
+<a href="https://sonicbots.vercel.app/founder">Explore Project →</a>
+
+</td>
+<td width="50%" valign="top">
 
 ### 🎨 Dartsrilanka
-An art and poster e-commerce project focused on presenting creative products through a modern online shopping experience.
 
-🔗 [Live Website](https://dartsrilanka.netlify.app/) · [GitHub Repository](https://github.com/Ashfaq12-code/Dart-Srilanka-Art-Posted-E-comm-Website-)
+An online art and poster e-commerce experience designed to present creative products in a modern shopping interface.
 
----
+**Focus:** E-commerce · Responsive UI · Product presentation
 
-## 💡 What I Enjoy Building
+<a href="https://dartsrilanka.netlify.app/">Live Website →</a> · <a href="https://github.com/Ashfaq12-code/Dart-Srilanka-Art-Posted-E-comm-Website-">Source Code →</a>
 
-- Full-stack web applications
-- E-commerce platforms and admin dashboards
-- ERP, POS, and inventory management systems
-- REST APIs and database-driven applications
-- AI assistants and automation tools
-- Responsive user interfaces and interactive experiences
+</td>
+</tr>
+</table>
 
----
+<div align="center">
 
-## 📊 GitHub Statistics
+<a href="https://github.com/Ashfaq12-code?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE-ALL%20REPOSITORIES-00ff88?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" alt="Explore repositories"/>
+</a>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashfaq12-code&show_icons=true&theme=tokyonight&hide_border=true" alt="Ashfaq's GitHub statistics" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashfaq12-code&theme=tokyonight&hide_border=true" alt="Ashfaq's GitHub contribution streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashfaq12-code&layout=compact&theme=tokyonight&hide_border=true" alt="Ashfaq's most-used programming languages" />
-</p>
+</div>
 
 ---
 
-## 🤝 Let's Connect
+## `04` — GitHub Performance
 
-<p>
-  <a href="https://github.com/Ashfaq12-code">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://techalh.com">
-    <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:codewithash6@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.instagram.com/ash_mern__stack/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
+<div align="center">
+
+<a href="https://github.com/Ashfaq12-code">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ashfaq12-code&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&include_all_commits=true" alt="Ashfaq's GitHub statistics"/>
+</a>
+
+<a href="https://github.com/Ashfaq12-code">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashfaq12-code&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9" alt="Most used programming languages"/>
+</a>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Ashfaq12-code&theme=dark&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&sideLabels=C9D1D9&dates=8B949E" width="90%" alt="GitHub contribution streak"/>
+
+</div>
 
 ---
 
-<p align="center">
-  💻 <b>Build. Debug. Improve. Repeat.</b> 🚀
-  <br />
-  <i>Always learning, always building.</i>
-</p>
+## `05` — Contribution Activity
+
+<div align="center">
+
+### 🌱 Every Commit Builds Something Greater
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashfaq12-code&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&area_color=064e3b&hide_border=true&custom_title=ASHFAQ%27S%20CONTRIBUTION%20ACTIVITY" width="100%" alt="GitHub contribution activity graph"/>
+
+**Keep building. Keep learning. Keep shipping.**
+
+</div>
+
+---
+
+## `06` — What I Build
+
+<div align="center">
+
+| Area | Focus |
+|:---|:---|
+| 🌐 Web Development | Modern, responsive full-stack applications |
+| 📱 Mobile Experiences | Mobile-friendly interfaces and app projects |
+| 🏢 Business Software | ERP, POS, inventory, and management systems |
+| 🔌 Backend Engineering | APIs, authentication, and database integration |
+| 🤖 AI & Automation | Assistants, integrations, and productivity tools |
+| 🛒 E-Commerce | Online stores, product management, and order workflows |
+
+</div>
+
+---
+
+## `07` — Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/Ashfaq12-code">
+  <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-00ff88?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" alt="GitHub"/>
+</a>
+
+<a href="https://techalh.com">
+  <img src="https://img.shields.io/badge/Portfolio-TechALH-00ff88?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010" alt="Portfolio"/>
+</a>
+
+<a href="mailto:codewithash6@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Let's%20Connect-00ff88?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" alt="Email"/>
+</a>
+
+<a href="https://www.instagram.com/ash_mern__stack/">
+  <img src="https://img.shields.io/badge/Instagram-Follow-00ff88?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010" alt="Instagram"/>
+</a>
+
+<br/><br/>
+
+*Open to interesting projects, collaboration, and opportunities.*
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:064e3b,100:050505&height=180&section=footer&text=ASH&fontSize=85&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%" alt="ASH signature footer"/>
+
+### `CODE` · `CREATE` · `DEBUG` · `REPEAT`
+
+**Debugging My Way to Greatness 🚀**
+
+<sub>Designed with passion by Ashfaq Ahamed · Sri Lanka 🇱🇰</sub>
+
+</div>
