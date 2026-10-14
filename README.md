@@ -1,6 +1,14 @@
 # 👋 Hey, I'm Ashfaq Ahamed
 
-### 💻 Full-Stack Developer | Web Applications & Business Software
+```html
+<h3 align="center">
+  💻 Full-Stack Developer | Web & Mobile Apps Specialist
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+💻;Web+%26+Mobile+Apps+Specialist+📱;Building+Smart+Business+Software+🚀;AI+%26+Automation+Enthusiast+🤖;Debugging+My+Way+to+Greatness+🔥" alt="Typing SVG" />
+</p>
+```
 
 🚀 **Debugging My Way to Greatness**
 
