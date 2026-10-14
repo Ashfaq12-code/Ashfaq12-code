@@ -1,26 +1,23 @@
-<!--
-  Ashfaq Ahamed | GitHub Profile README
-  Theme: Black + Emerald Green
--->
+ <!-- Ashfaq Ahamed | GitHub Profile README | Black + Emerald Green -->
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:064e3b,100:00ff88&height=200&section=header&text=ASHFAQ%20AHAMED&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=FULL-STACK%20DEVELOPER&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="Ashfaq Ahamed profile banner"/>
 
 <a href="https://github.com/Ashfaq12-code">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=900&color=00FF88&center=true&vCenter=true&width=750&height=55&lines=Full-Stack+Developer+%F0%9F%92%BB;Web+%26+Mobile+Apps+Specialist+%F0%9F%93%B1;Building+Smart+Business+Software+%F0%9F%9A%80;AI+%26+Automation+Enthusiast+%F0%9F%A4%96;Debugging+My+Way+to+Greatness+%F0%9F%94%A5" alt="Animated developer introduction"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=900&color=00FF88&center=true&vCenter=true&width=750&height=55&lines=Full-Stack+Developer+%F0%9F%92%BB;Web+%26+Mobile+Apps+Specialist+%F0%9F%93%B1;Building+Smart+Business+Software+%F0%9F%9A%80;AI+%26+Automation+Enthusiast+%F0%9F%A4%96;Debugging+My+Way+to+Greatness+%F0%9F%94%A5" alt="Animated developer introduction"/>
 </a>
 
 <br/>
 
 <a href="https://github.com/Ashfaq12-code">
-  <img src="https://img.shields.io/badge/GitHub-Ashfaq12--code-00ff88?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-Ashfaq12--code-00ff88?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" alt="GitHub"/>
 </a>
-<a href="https://techalh.com">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00ff88?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010" alt="Portfolio"/>
+<a href="https://codewithash32.neocities.org/">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00ff88?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010" alt="Portfolio"/>
 </a>
 <a href="mailto:codewithash6@gmail.com">
-  <img src="https://img.shields.io/badge/Contact-Email-00ff88?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" alt="Email"/>
+<img src="https://img.shields.io/badge/Contact-Email-00ff88?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" alt="Email"/>
 </a>
 
 <br/><br/>
@@ -129,7 +126,7 @@ An online art and poster e-commerce experience designed to present creative prod
 <div align="center">
 
 <a href="https://github.com/Ashfaq12-code?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE-ALL%20REPOSITORIES-00ff88?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" alt="Explore repositories"/>
+<img src="https://img.shields.io/badge/EXPLORE-ALL%20REPOSITORIES-00ff88?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" alt="Explore repositories"/>
 </a>
 
 </div>
@@ -141,11 +138,11 @@ An online art and poster e-commerce experience designed to present creative prod
 <div align="center">
 
 <a href="https://github.com/Ashfaq12-code">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ashfaq12-code&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&include_all_commits=true" alt="Ashfaq's GitHub statistics"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ashfaq12-code&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&include_all_commits=true" alt="Ashfaq's GitHub statistics"/>
 </a>
 
 <a href="https://github.com/Ashfaq12-code">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashfaq12-code&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9" alt="Most used programming languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashfaq12-code&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9" alt="Most used programming languages"/>
 </a>
 
 <br/><br/>
@@ -162,6 +159,10 @@ An online art and poster e-commerce experience designed to present creative prod
 
 ### 🌱 Every Commit Builds Something Greater
 
+<img src="https://ghchart.rshah.org/00ff88/Ashfaq12-code" width="100%" alt="Ashfaq's GitHub contribution calendar with green squares"/>
+
+<br/>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashfaq12-code&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&area_color=064e3b&hide_border=true&custom_title=ASHFAQ%27S%20CONTRIBUTION%20ACTIVITY" width="100%" alt="GitHub contribution activity graph"/>
 
 **Keep building. Keep learning. Keep shipping.**
@@ -175,7 +176,7 @@ An online art and poster e-commerce experience designed to present creative prod
 <div align="center">
 
 | Area | Focus |
-|:---|:---|
+|---|---|
 | 🌐 Web Development | Modern, responsive full-stack applications |
 | 📱 Mobile Experiences | Mobile-friendly interfaces and app projects |
 | 🏢 Business Software | ERP, POS, inventory, and management systems |
@@ -192,19 +193,19 @@ An online art and poster e-commerce experience designed to present creative prod
 <div align="center">
 
 <a href="https://github.com/Ashfaq12-code">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-00ff88?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-00ff88?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" alt="GitHub"/>
 </a>
 
-<a href="https://techalh.com">
-  <img src="https://img.shields.io/badge/Portfolio-TechALH-00ff88?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010" alt="Portfolio"/>
+<a href="https://codewithash32.neocities.org/">
+<img src="https://img.shields.io/badge/Portfolio-Code%20With%20Ash-00ff88?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010" alt="Portfolio"/>
 </a>
 
 <a href="mailto:codewithash6@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Let's%20Connect-00ff88?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-Let's%20Connect-00ff88?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" alt="Email"/>
 </a>
 
 <a href="https://www.instagram.com/ash_mern__stack/">
-  <img src="https://img.shields.io/badge/Instagram-Follow-00ff88?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010" alt="Instagram"/>
+<img src="https://img.shields.io/badge/Instagram-Follow-00ff88?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010" alt="Instagram"/>
 </a>
 
 <br/><br/>
